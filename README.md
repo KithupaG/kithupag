@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kithupag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kithupag" height="30" width="40" /></a>
-<a href="https://instagram.com/@kithupanofail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kithupanofail" height="30" width="40" /></a>
+<a href="[https://instagram.com/@kithupanofail](https://www.instagram.com/kithupanofail/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kithupanofail" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/reddit stories unplugged" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="reddit stories unplugged" height="30" width="40" /></a>
 </p>
 
