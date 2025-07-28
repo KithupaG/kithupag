@@ -15,7 +15,7 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
 Email: gkithupa@gmail.com
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RResabala2015&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KithupaG&label=Profile%20views&color=0e75b6&style=flat" alt="KithupaG" /> </p>
 
 
 ------
