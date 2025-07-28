@@ -7,8 +7,8 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
 
   - 🔭 I’m currently working on writing java applications from jdk 8 to 21.
   - 🌱 I’m currently learning; AWS Cloud Development, DevOps Engineering.
-  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Lumen, Laravel,  C#, .NET, Java, Spring Boot, Scrum, Google Cloud Platform, CI/CD, Docker, Kubernetes**
-  - ⚡ Fun fact: I'm love motorbikes!
+  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, React,  PHP, Laravel, C#, .NET, Java, Python, Electronics, Arduino, C++, Spring Boot, Docker, Kubernetes, AWS,**
+  - ⚡ Fun fact: I'm love **Motorbikes and Cars!** 🏍️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
