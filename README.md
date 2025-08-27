@@ -13,7 +13,8 @@ With over --yet to gain-- years of experience as a Software Engineer, I'm on a m
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-Email: gkithupa@gmail.com
+  Email: gkithupa@gmail.com
+  Dev.to : https://dev.to/trenation
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KithupaG&label=Profile%20views&color=0e75b6&style=flat" alt="KithupaG" /> </p>
