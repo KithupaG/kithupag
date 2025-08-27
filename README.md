@@ -14,6 +14,7 @@ With over --yet to gain-- years of experience as a Software Engineer, I'm on a m
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   Email: gkithupa@gmail.com
+  <br>
   Dev.to : https://dev.to/trenation
 </p>
 
