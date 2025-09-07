@@ -16,6 +16,8 @@ With over --yet to gain-- years of experience as a Software Engineer, I'm on a m
   Email: gkithupa@gmail.com
   <br>
   Dev.to : https://dev.to/trenation
+  <br>
+  Instagram : @kithupanofail
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KithupaG&label=Profile%20views&color=0e75b6&style=flat" alt="KithupaG" /> </p>
