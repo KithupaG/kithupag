@@ -6,7 +6,7 @@ I'm 16 years old full stack developer.
 
   - 🔭 I’m currently working on writing java applications from jdk 8 to 21.
   - 🌱 I’m currently learning; AWS Cloud Development, DevOps Engineering.
-  - 💬 Ask me about ** Anything **
+  - 💬 Ask me about **Anything**
   - ⚡ Fun fact: I'm a huge **Automotive Enthusiast!**
     
 <h3 align="left">Connect with me:</h3>
