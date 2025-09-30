@@ -5,7 +5,7 @@ I'm 16 years old full stack developer, and software engineering aint shit.
 
 
   - I’m currently working on using vim.
-  - I’m currently learning; Relearning java, DevOps Engineering
+  - Currently Relearning java, DevOps Engineering
   - Fun fact: I prefer vim over vscode.
     
 <h3 align="left">Connect with me:</h3>
