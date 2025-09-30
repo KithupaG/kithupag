@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hellow 🫡, I'm Kithupa Gajanayake
+**Me**
 I'm 16 years old full stack developer, and software engineering aint shit.
 
 
