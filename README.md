@@ -1,6 +1,8 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 **Me**
+<br>
+---
 I'm 16 years old full stack developer, and software engineering aint shit.
 
 
