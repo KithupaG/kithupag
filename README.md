@@ -6,7 +6,7 @@
 I'm 16 years old full stack developer, and software engineering aint shit.
 
   - Currently learning DevOps Engineering
-  - I prefer vim over vscode.
+  - Vim > Nano.
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
