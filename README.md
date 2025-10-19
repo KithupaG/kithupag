@@ -3,7 +3,7 @@
 **Me**
 <br>
 ---
-I'm 16 years old full stack developer, and software engineering aint shit.
+I'm 16 years old full stack developer.
 
   - Currently learning DevOps Engineering
   - Vim > Nano.
