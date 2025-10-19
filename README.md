@@ -5,7 +5,7 @@
 ---
 I'm 16 years old full stack developer.
 
-  - Currently learning DevOps Engineering
+  - Currently learning DevOps.
   - VSCode all the way.
     
 <h3 align="left">Connect with me:</h3>
